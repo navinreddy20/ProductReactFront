@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone",
+      "place": "mumbai",
+      "warranty": 45
+    },
+    {
+      "id": 2,
+      "name": "mac",
+      "place": "sacramento",
+      "warranty": 4
+    },
+    {
+      "id": 4,
+      "name": "Moto-gt",
+      "place": "newyork",
+      "warranty": 9
+    },
+    {
+      "name": "Apple",
+      "place": "Cupertino",
+      "warranty": "100",
+      "id": 6
+    },
+    {
+      "name": "applewatch",
+      "place": "bengaluru",
+      "id": "100",
+      "warranty": "21"
+    }
+  ]
+}
